@@ -1,0 +1,10 @@
+20230727	01:16:33	cb24834f-8374-429b-a74c-54ee90ddc2b5	Error: Not allowed by CORS
+20230731	00:43:06	ee249bdf-0dc1-46bb-a7ba-1de577112e83	Error: Not allowed by CORS
+20230731	00:43:10	21ad5c75-cf27-4bf5-96d4-03aa0fdc1fbc	Error: Not allowed by CORS
+20230731	00:43:10	357db6f8-6fe2-4399-9805-cdf56f693c48	Error: Not allowed by CORS
+20230731	00:44:21	589a6e3e-4c6d-4e16-9819-768ac4b86709	Error: Not allowed by CORS
+20230731	00:44:21	b8746698-a26d-42a1-8431-892ca87e2e1f	Error: Not allowed by CORS
+20230731	00:46:36	3fe752c3-f14a-4203-aa4f-094d9bcfcf31	Error: Not allowed by CORS
+20230731	00:46:36	53e4d4c9-568b-4a91-a871-b2f7f5d1f117	Error: Not allowed by CORS
+20230809	15:59:46	046b013c-4834-4400-a449-ca130b904175	ReferenceError: JsonWebTokenError is not defined
+20230809	16:03:17	4823eab9-7d67-4b08-b734-498b108552e1	ReferenceError: jwt is not defined
