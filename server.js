@@ -1,5 +1,4 @@
 const { MongoClient, ServerApiVersion } = require('mongodb');
-const uri = "mongodb+srv://MONEMP:Henne$123@cluster0.viqbiag.mongodb.net/?retryWrites=true&w=majority";
 require('dotenv').config();
 const express = require('express');
 const app = express();
